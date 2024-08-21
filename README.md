@@ -1,13 +1,12 @@
-## Здравствуйте 👋, я Иванов Глеб 
+## Hello 👋, I'm Ivanov Gleb
 
-### o 👨‍💻 Сейчас я изучаю анализ данных. 
-### o 🎓 Я аналитик данных и учусь в Московском политехническом университете.
-### o 🛠️ Языки и инструменты:
-
-#### - Питон (Панды, Сиборн, Сципи, Пингуин)
+### o 👨‍💻 I’m currently learning data analysis 
+### o 🎓 I’m data analyst and also studying at the Moscow Polytechnic University
+### o 🛠️ Languages and tools:
+#### - Python (Pandas, Seaborn, Scipy, Pingouin)
 #### - SQL (PostgreSQL, ClickHouse)
-#### - Таблица
-### o 📫 Как со мной связаться:
-#### - электронная почта: p.metamodern@gmail.com
-#### - телеграм: https://t.me/DisExist
-#### - вк: https://vk.com/stallionred
+#### - Tableau
+### o 📫 How to reach me::
+#### - email: p.metamodern@gmail.com
+#### - telegram: https://t.me/DisExist
+#### - vk: https://vk.com/stallionred
