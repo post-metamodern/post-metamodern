@@ -1,16 +1,13 @@
-## Hi there 👋
+## Здравствуйте 👋, я Иванов Глеб 
 
-<!--
-**post-metamodern/post-metamodern** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### o 👨‍💻 Сейчас я изучаю анализ данных. 
+### o 🎓 Я аналитик данных и учусь в Московском политехническом университете.
+### o 🛠️ Языки и инструменты:
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### - Питон (Панды, Сиборн, Сципи, Пингуин)
+#### - SQL (PostgreSQL, ClickHouse)
+#### - Таблица
+### o 📫 Как со мной связаться:
+#### - электронная почта: p.metamodern@gmail.com
+#### - телеграм: https://t.me/DisExist
+#### - вк: https://vk.com/stallionred
