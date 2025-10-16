@@ -1,4 +1,4 @@
-## Hello 👋, I'm Ivanov Gleb
+## Hello 👋, I'm Petr Petrov
 
 ### o 👨‍💻 I’m currently learning data analysis 
 ### o 🎓 I’m data analyst and also studying at the Moscow Polytechnic University
@@ -7,6 +7,6 @@
 #### - SQL (PostgreSQL, ClickHouse)
 #### - Tableau
 ### o 📫 How to reach me::
-#### - email: p.metamodern@gmail.com
-#### - telegram: https://t.me/DisExist
-#### - vk: https://vk.com/stallionred
+#### - email: ...
+#### - telegram: https://t.me/...
+#### - vk: https://vk.com/...
